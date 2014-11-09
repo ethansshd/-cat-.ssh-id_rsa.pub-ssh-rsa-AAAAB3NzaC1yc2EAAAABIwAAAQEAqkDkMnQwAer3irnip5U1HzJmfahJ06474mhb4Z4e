@@ -1,0 +1,6 @@
+$ cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAqkDkMnQwAer3irnip5U1HzJmfahJ06474mhb4Z4eobhXQ
+I7qDu1pbt7H2SSSswa6HwX7Uicelh1u6PkQaSZJ/QOaUWSFkyM2hw+B3oOfqVVnst9vdZPpTLfyWuxqG2
+YAnHyYEb2w58VSVbk4L89s3V21keMZI3+PD83+K2LvqsgxfO4UHds7SRk5kLCTQGHljr2POG8TQ3Xfec7
+xvXy6jTB0gipM0/dUV0uxdGCEU5WNPSLIjhnHl6BF8Q84Dzc9FroGHNzhDG2POMco6HhKx2zgjm4K5rFu
+jR1nV45unWc/RLE0Zeom+Znfw1s5jETAo6/NZKVLrNGP1LryWy8wyQ== username@hostname.local
